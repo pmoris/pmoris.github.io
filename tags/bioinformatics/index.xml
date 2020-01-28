@@ -5,12 +5,48 @@
     <link>https://pmoris.github.io/tags/bioinformatics/</link>
       <atom:link href="https://pmoris.github.io/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioinformatics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter Moris</copyright><lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter Moris</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Bioinformatics</title>
       <link>https://pmoris.github.io/tags/bioinformatics/</link>
     </image>
+    
+    <item>
+      <title>MILES Subgraph Miner</title>
+      <link>https://pmoris.github.io/project/miles-subgraph/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/miles-subgraph/</guid>
+      <description>&lt;p&gt;MILES is a Java tool to discover subgraphs (or network motifs) in a graph (or network) that are significantly associated with a given set of vertices (or nodes) of interest. In other words, the goal is to search for subgraphs that are enriched in a selected subset of vertices compared to the graph as a whole.&lt;/p&gt;
+&lt;p&gt;Documentation is available in the GitHub README: 
+&lt;a href=&#34;https://github.com/pmoris/miles-subgraph-miner#miles-mining-labeled-enriched-subgraphs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/pmoris/miles-subgraph-miner#miles-mining-labeled-enriched-subgraphs&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;Download the latest release here: 
+&lt;a href=&#34;https://github.com/pmoris/miles-subgraph-miner/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/pmoris/miles-subgraph-miner/releases&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;For the associated publication, see:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MILES: A Java Tool to Extract Node-Specific Enriched Subgraphs in Biomolecular Networks.
+Pieter Moris, Danh Bui-Thi, Kris Laukens, Pieter Meysman. &lt;em&gt;Bioinformatics&lt;/em&gt;, 2019. (
+&lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btz849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1093/bioinformatics/btz849&lt;/a&gt;
+)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational skills primer</title>
+      <link>https://pmoris.github.io/project/computational-primer/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/computational-primer/</guid>
+      <description>&lt;p&gt;A presentation on the computational skills and tools that are required to avoid common annoyances in bioinformatics. It acts as both an introduction and a compendium of several concepts and caveats, and goes through various scenarios and how to best deal with them. It touches on a wide array of subjects, ranging from reproducible (code) projects, how to keep your &lt;code&gt;Python&lt;/code&gt;/&lt;code&gt;R&lt;/code&gt; package installation organized, to working on remote servers with &lt;code&gt;ssh&lt;/code&gt;. It was created for my research group&amp;rsquo;s annual workshop/brainstorm retreat (2019).&lt;/p&gt;
+&lt;p&gt;The slides are available at: 
+&lt;a href=&#34;https://pmoris.github.io/computational-skills&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pmoris.github.io/computational-skills&lt;/a&gt;
+. They were created using the HTML presentation framework 
+&lt;a href=&#34;https://github.com/hakimel/reveal.js/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;reveal.js&lt;/code&gt;&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bioinformatic scripts</title>
@@ -33,6 +69,23 @@
  and the full (Sphinx-generated) documentation for this project is available 
 &lt;a href=&#34;https://pmoris.github.io/goscripts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TCRex</title>
+      <link>https://pmoris.github.io/project/tcrex/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/tcrex/</guid>
+      <description>&lt;p&gt;TCRex is a web tool for the prediction of TCR–epitope recognition. It can predict TCR–epitope binding for human T cell receptors (TCRs) using TCR beta chain information, i.e. the CDR3 amino acid sequence and the corresponding V/J genes, using random forest classifiers as the underlying models.&lt;/p&gt;
+&lt;p&gt;This project was a large-scale team effort, and my personal contributions were mainly made to the back end development and server side deployment via containerization.&lt;/p&gt;
+&lt;p&gt;For the associated publication, see:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Detection of Enriched T Cell Epitope Specificity in Full T Cell Receptor Sequence Repertoires.
+Sofie Gielis, Pieter Moris, Wout Bittremieux, Nicolas De Neuter, Benson Ogunjimi, Kris Laukens, Pieter Meysman. Frontiers in Immunology, 2019. (
+&lt;a href=&#34;https://doi.org/10.3389/fimmu.2019.02820&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.3389/fimmu.2019.02820&lt;/a&gt;
+)&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

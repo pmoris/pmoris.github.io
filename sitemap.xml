@@ -18,7 +18,17 @@
   </url>
   
   <url>
+    <loc>https://pmoris.github.io/tags/bioinformatics/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pmoris.github.io/publication/gielis-detection-enriched-cell-2019/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmoris.github.io/project/miles-subgraph/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +39,16 @@
   
   <url>
     <loc>https://pmoris.github.io/publication/boon-no-barrier-breakdown-2019/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmoris.github.io/project/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmoris.github.io/tags/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,27 +68,17 @@
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/categories/docker/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pmoris.github.io/tags/docker/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://pmoris.github.io/categories/docker/</loc>
+    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pmoris.github.io/project/docker-tutorial/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmoris.github.io/project/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmoris.github.io/tags/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/tags/bioinformatics/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pmoris.github.io/publication/mrzic-grasping-frequent-subgraph-2018/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -98,18 +103,23 @@
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/categories/git/</loc>
+    <loc>https://pmoris.github.io/tags/git/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/tags/git/</loc>
+    <loc>https://pmoris.github.io/categories/git/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pmoris.github.io/project/git-internals/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmoris.github.io/project/tcrex/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
