@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics | Pieter Moris</title>
+    <link>https://pmoris.github.io/tags/bioinformatics/</link>
+      <atom:link href="https://pmoris.github.io/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter Moris</copyright><lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Bioinformatics</title>
+      <link>https://pmoris.github.io/tags/bioinformatics/</link>
+    </image>
+    
+    <item>
+      <title>Bioinformatic scripts</title>
+      <link>https://pmoris.github.io/project/bioinformatics-scripts/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/bioinformatics-scripts/</guid>
+      <description>&lt;p&gt;An assortment of smallish scripts and packages that I&amp;rsquo;ve created during my PhD for various bioinformatics tasks.&lt;/p&gt;
+&lt;h1 id=&#34;biomolecular-id-remapperhttpsgithubcompmorisbiomolecule_id_remapper&#34;&gt;
+&lt;a href=&#34;https://github.com/pmoris/biomolecule_id_remapper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biomolecular id remapper&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;A simple &lt;code&gt;Python&lt;/code&gt; script to remap &lt;strong&gt;protein or gene identifiers&lt;/strong&gt; into different formats via the UniProt API. The script automatically splits big queries into smaller chunks and tries to retrieve the results multiple times upon failure. Documentation is available 
+&lt;a href=&#34;https://github.com/pmoris/biomolecule_id_remapper#usage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+.&lt;/p&gt;
+&lt;h1 id=&#34;goscriptshttpsgithubcompmorisgoscripts&#34;&gt;
+&lt;a href=&#34;https://github.com/pmoris/goscripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;goscripts&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;A &lt;code&gt;Python&lt;/code&gt; package that provides functionality for handling &lt;strong&gt;Gene Ontology&lt;/strong&gt; (GO) data  (e.g. parsing and manipulating &lt;code&gt;.obo&lt;/code&gt; and &lt;code&gt;.gaf&lt;/code&gt; files), including a ready to use script to perform GO enrichment test.&lt;/p&gt;
+&lt;p&gt;Installation instructions are available 
+&lt;a href=&#34;https://github.com/pmoris/goscripts#how-to-get-started&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+ and the full (Sphinx-generated) documentation for this project is available 
+&lt;a href=&#34;https://pmoris.github.io/goscripts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

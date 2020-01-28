@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Pieter Moris</title>
+    <link>https://pmoris.github.io/publication/</link>
+      <atom:link href="https://pmoris.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter Moris</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Publications</title>
+      <link>https://pmoris.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Treating Biomolecular Interaction as an Image Classification Problem – a Case Study on T-Cell Receptor-Epitope Recognition Prediction</title>
+      <link>https://pmoris.github.io/publication/moris-treating-biomolecular-interaction-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/publication/moris-treating-biomolecular-interaction-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Enriched T Cell Epitope Specificity in Full T Cell Receptor Sequence Repertoires</title>
+      <link>https://pmoris.github.io/publication/gielis-detection-enriched-cell-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/publication/gielis-detection-enriched-cell-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MILES: A Java Tool to Extract Node-Specific Enriched Subgraphs in Biomolecular Networks</title>
+      <link>https://pmoris.github.io/publication/moris-miles-java-tool-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/publication/moris-miles-java-tool-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Barrier Breakdown between Human and Cattle Schistosome Species in the Senegal River Basin in the Face of Hybridisation</title>
+      <link>https://pmoris.github.io/publication/boon-no-barrier-breakdown-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/publication/boon-no-barrier-breakdown-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grasping Frequent Subgraph Mining for Bioinformatics Applications</title>
+      <link>https://pmoris.github.io/publication/mrzic-grasping-frequent-subgraph-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/publication/mrzic-grasping-frequent-subgraph-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Relationship between Transmission Time and Clustering Methods in Mycobacterium Tuberculosis Epidemiology</title>
+      <link>https://pmoris.github.io/publication/meehan-relationship-transmission-time-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/publication/meehan-relationship-transmission-time-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Feasibility of Mining CD8&#43; T Cell Receptor Patterns Underlying Immunogenic Peptide Recognition</title>
+      <link>https://pmoris.github.io/publication/deneuter-feasibility-mining-cd-8-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/publication/deneuter-feasibility-mining-cd-8-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

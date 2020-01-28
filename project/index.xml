@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Pieter Moris</title>
+    <link>https://pmoris.github.io/project/</link>
+      <atom:link href="https://pmoris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter Moris</copyright><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Projects</title>
+      <link>https://pmoris.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Docker primer</title>
+      <link>https://pmoris.github.io/project/docker-tutorial/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/docker-tutorial/</guid>
+      <description>&lt;p&gt;A brief hands-on introduction to &lt;code&gt;Docker&lt;/code&gt; I created for my research group. It focuses on the basic aspects and concepts that helped me to understand and use &lt;code&gt;Docker&lt;/code&gt; efficiently. This tutorial was created using &lt;code&gt;pandoc&lt;/code&gt; and &lt;code&gt;markdown&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The primer is available at: 
+&lt;a href=&#34;https://pmoris.github.io/docker-primer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pmoris.github.io/docker-primer/&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational skills primer</title>
+      <link>https://pmoris.github.io/project/computational-primer/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/computational-primer/</guid>
+      <description>&lt;p&gt;A presentation on the computational skills and tools that are required to avoid common annoyances in bioinformatics. It acts as both an introduction and a compendium of several concepts and caveats, and goes through various scenarios and how to best deal with them. It touches on a wide array of subjects, ranging from reproducible (code) projects, how to keep your &lt;code&gt;Python&lt;/code&gt;/&lt;code&gt;R&lt;/code&gt; package installation organized, to working on remote servers with &lt;code&gt;ssh&lt;/code&gt;. It was created for my research group&amp;rsquo;s annual workshop/brainstorm retreat (2019).&lt;/p&gt;
+&lt;p&gt;The slides are available at: 
+&lt;a href=&#34;https://pmoris.github.io/computational-skills&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pmoris.github.io/computational-skills&lt;/a&gt;
+. They were created using the HTML presentation framework 
+&lt;a href=&#34;https://github.com/hakimel/reveal.js/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;reveal.js&lt;/code&gt;&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bioinformatic scripts</title>
+      <link>https://pmoris.github.io/project/bioinformatics-scripts/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/bioinformatics-scripts/</guid>
+      <description>&lt;p&gt;An assortment of smallish scripts and packages that I&amp;rsquo;ve created during my PhD for various bioinformatics tasks.&lt;/p&gt;
+&lt;h1 id=&#34;biomolecular-id-remapperhttpsgithubcompmorisbiomolecule_id_remapper&#34;&gt;
+&lt;a href=&#34;https://github.com/pmoris/biomolecule_id_remapper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biomolecular id remapper&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;A simple &lt;code&gt;Python&lt;/code&gt; script to remap &lt;strong&gt;protein or gene identifiers&lt;/strong&gt; into different formats via the UniProt API. The script automatically splits big queries into smaller chunks and tries to retrieve the results multiple times upon failure. Documentation is available 
+&lt;a href=&#34;https://github.com/pmoris/biomolecule_id_remapper#usage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+.&lt;/p&gt;
+&lt;h1 id=&#34;goscriptshttpsgithubcompmorisgoscripts&#34;&gt;
+&lt;a href=&#34;https://github.com/pmoris/goscripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;goscripts&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;A &lt;code&gt;Python&lt;/code&gt; package that provides functionality for handling &lt;strong&gt;Gene Ontology&lt;/strong&gt; (GO) data  (e.g. parsing and manipulating &lt;code&gt;.obo&lt;/code&gt; and &lt;code&gt;.gaf&lt;/code&gt; files), including a ready to use script to perform GO enrichment test.&lt;/p&gt;
+&lt;p&gt;Installation instructions are available 
+&lt;a href=&#34;https://github.com/pmoris/goscripts#how-to-get-started&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+ and the full (Sphinx-generated) documentation for this project is available 
+&lt;a href=&#34;https://pmoris.github.io/goscripts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tutorial on git internals</title>
+      <link>https://pmoris.github.io/project/git-internals/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/git-internals/</guid>
+      <description>&lt;p&gt;A light-hearted presentation I created on the inner workings of the &lt;code&gt;git&lt;/code&gt; version control system. It focuses on unravelling the underlying mechanisms that govern &lt;code&gt;git&lt;/code&gt;, with the goal of elucidating various aspects that do not appear intuitive at first glance (e.g. &lt;em&gt;&amp;ldquo;what is this detached head warning I keep seeing?&amp;quot;&lt;/em&gt;), and to pave the way for mastering more advanced concepts. It is aimed at an audience that has mastered the basics of &lt;code&gt;git&lt;/code&gt;, and need some help to move on to some of the more advanced features. More concretely, I hope that this overview can provide people with the basic knowledge and vocabulary that is required to read and understand the official documentation when trying out new features or debugging error messages.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve presented it to my colleagues at our research group&amp;rsquo;s annual workshop/brainstorm retreat, and at a biomina lunch talk at UAntwerpen.&lt;/p&gt;
+&lt;p&gt;The slides are available at: &lt;a href=&#34;https://pmoris.github.io/git-gud/&#34;&gt;https://pmoris.github.io/git-gud/&lt;/a&gt;. They were created using the HTML presentation framework 
+&lt;a href=&#34;https://github.com/hakimel/reveal.js/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;reveal.js&lt;/code&gt;&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker | Pieter Moris</title>
+    <link>https://pmoris.github.io/categories/docker/</link>
+      <atom:link href="https://pmoris.github.io/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <description>docker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter Moris</copyright><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>docker</title>
+      <link>https://pmoris.github.io/categories/docker/</link>
+    </image>
+    
+    <item>
+      <title>Docker primer</title>
+      <link>https://pmoris.github.io/project/docker-tutorial/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/docker-tutorial/</guid>
+      <description>&lt;p&gt;A brief hands-on introduction to &lt;code&gt;Docker&lt;/code&gt; I created for my research group. It focuses on the basic aspects and concepts that helped me to understand and use &lt;code&gt;Docker&lt;/code&gt; efficiently. This tutorial was created using &lt;code&gt;pandoc&lt;/code&gt; and &lt;code&gt;markdown&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The primer is available at: 
+&lt;a href=&#34;https://pmoris.github.io/docker-primer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pmoris.github.io/docker-primer/&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
