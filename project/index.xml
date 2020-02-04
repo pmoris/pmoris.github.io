@@ -17,7 +17,9 @@
       <link>https://pmoris.github.io/project/miles-subgraph/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://pmoris.github.io/project/miles-subgraph/</guid>
-      <description>&lt;p&gt;MILES is a Java tool to discover subgraphs (or network motifs) in a graph (or network) that are significantly associated with a given set of vertices (or nodes) of interest. In other words, the goal is to search for subgraphs that are enriched in a selected subset of vertices compared to the graph as a whole.&lt;/p&gt;
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/pmoris/miles-subgraph-miner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MILES&lt;/a&gt;
+ is a &lt;code&gt;Java&lt;/code&gt; tool to discover subgraphs (or network motifs) in a graph (or network) that are significantly associated with a given set of vertices (or nodes) of interest. In other words, the goal is to search for subgraphs that are enriched in a selected subset of vertices compared to the graph as a whole.&lt;/p&gt;
 &lt;p&gt;Documentation is available in the GitHub README: 
 &lt;a href=&#34;https://github.com/pmoris/miles-subgraph-miner#miles-mining-labeled-enriched-subgraphs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/pmoris/miles-subgraph-miner#miles-mining-labeled-enriched-subgraphs&lt;/a&gt;
 .&lt;/p&gt;
@@ -61,25 +63,15 @@ Pieter Moris, Danh Bui-Thi, Kris Laukens, Pieter Meysman. &lt;em&gt;Bioinformati
     </item>
     
     <item>
-      <title>Bioinformatic scripts</title>
-      <link>https://pmoris.github.io/project/bioinformatics-scripts/</link>
+      <title>Biomolecular id remapper</title>
+      <link>https://pmoris.github.io/project/biomolecular-id-remapper/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://pmoris.github.io/project/bioinformatics-scripts/</guid>
-      <description>&lt;p&gt;An assortment of smallish scripts and packages that I&amp;rsquo;ve created during my PhD for various bioinformatics tasks.&lt;/p&gt;
-&lt;h1 id=&#34;biomolecular-id-remapperhttpsgithubcompmorisbiomolecule_id_remapper&#34;&gt;
+      <guid>https://pmoris.github.io/project/biomolecular-id-remapper/</guid>
+      <description>&lt;h1 id=&#34;biomolecular-id-remapperhttpsgithubcompmorisbiomolecule_id_remapper&#34;&gt;
 &lt;a href=&#34;https://github.com/pmoris/biomolecule_id_remapper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biomolecular id remapper&lt;/a&gt;
 &lt;/h1&gt;
 &lt;p&gt;A simple &lt;code&gt;Python&lt;/code&gt; script to remap &lt;strong&gt;protein or gene identifiers&lt;/strong&gt; into different formats via the UniProt API. The script automatically splits big queries into smaller chunks and tries to retrieve the results multiple times upon failure. Documentation is available 
 &lt;a href=&#34;https://github.com/pmoris/biomolecule_id_remapper#usage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
-.&lt;/p&gt;
-&lt;h1 id=&#34;goscriptshttpsgithubcompmorisgoscripts&#34;&gt;
-&lt;a href=&#34;https://github.com/pmoris/goscripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;goscripts&lt;/a&gt;
-&lt;/h1&gt;
-&lt;p&gt;A &lt;code&gt;Python&lt;/code&gt; package that provides functionality for handling &lt;strong&gt;Gene Ontology&lt;/strong&gt; (GO) data  (e.g. parsing and manipulating &lt;code&gt;.obo&lt;/code&gt; and &lt;code&gt;.gaf&lt;/code&gt; files), including a ready to use script to perform GO enrichment test.&lt;/p&gt;
-&lt;p&gt;Installation instructions are available 
-&lt;a href=&#34;https://github.com/pmoris/goscripts#how-to-get-started&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
- and the full (Sphinx-generated) documentation for this project is available 
-&lt;a href=&#34;https://pmoris.github.io/goscripts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 .&lt;/p&gt;
 </description>
     </item>
@@ -98,11 +90,13 @@ Pieter Moris, Danh Bui-Thi, Kris Laukens, Pieter Meysman. &lt;em&gt;Bioinformati
     </item>
     
     <item>
-      <title>TCRex</title>
+      <title>TCRex (server back end)</title>
       <link>https://pmoris.github.io/project/tcrex/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://pmoris.github.io/project/tcrex/</guid>
-      <description>&lt;p&gt;TCRex is a web tool for the prediction of TCR–epitope recognition. It can predict TCR–epitope binding for human T cell receptors (TCRs) using TCR beta chain information, i.e. the CDR3 amino acid sequence and the corresponding V/J genes, using random forest classifiers as the underlying models.&lt;/p&gt;
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://tcrex.biodatamining.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCRex&lt;/a&gt;
+ is a web tool for the prediction of TCR–epitope recognition. It can predict TCR–epitope binding for human T cell receptors (TCRs) using TCR beta chain information, i.e. the CDR3 amino acid sequence and the corresponding V/J genes, using random forest classifiers as the underlying models.&lt;/p&gt;
 &lt;p&gt;This project was a large-scale team effort, and my personal contributions were mainly made to the back end development and server side deployment via containerization.&lt;/p&gt;
 &lt;p&gt;For the associated publication, see:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -111,6 +105,23 @@ Sofie Gielis, Pieter Moris, Wout Bittremieux, Nicolas De Neuter, Benson Ogunjimi
 &lt;a href=&#34;https://doi.org/10.3389/fimmu.2019.02820&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.3389/fimmu.2019.02820&lt;/a&gt;
 )&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gene Ontology scripts</title>
+      <link>https://pmoris.github.io/project/goscripts/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/goscripts/</guid>
+      <description>&lt;h1 id=&#34;goscriptshttpsgithubcompmorisgoscripts&#34;&gt;
+&lt;a href=&#34;https://github.com/pmoris/goscripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;goscripts&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;A &lt;code&gt;Python&lt;/code&gt; package that provides functionality for handling &lt;strong&gt;Gene Ontology&lt;/strong&gt; (GO) data  (e.g. parsing and manipulating &lt;code&gt;.obo&lt;/code&gt; and &lt;code&gt;.gaf&lt;/code&gt; files), including a ready to use script to perform GO enrichment test.&lt;/p&gt;
+&lt;p&gt;Installation instructions are available 
+&lt;a href=&#34;https://github.com/pmoris/goscripts#how-to-get-started&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+ and the full (Sphinx-generated) documentation for this project is available 
+&lt;a href=&#34;https://pmoris.github.io/goscripts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+.&lt;/p&gt;
 </description>
     </item>
     

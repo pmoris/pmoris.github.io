@@ -68,12 +68,12 @@
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/tags/docker/</loc>
+    <loc>https://pmoris.github.io/categories/docker/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/categories/docker/</loc>
+    <loc>https://pmoris.github.io/tags/docker/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/project/bioinformatics-scripts/</loc>
+    <loc>https://pmoris.github.io/project/biomolecular-id-remapper/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -120,6 +120,11 @@
   <url>
     <loc>https://pmoris.github.io/project/tcrex/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmoris.github.io/project/goscripts/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
