@@ -53,22 +53,22 @@
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/categories/computational/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pmoris.github.io/tags/computational/</loc>
     <lastmod>2020-02-04T12:29:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmoris.github.io/categories/docker/</loc>
+    <loc>https://pmoris.github.io/categories/computational/</loc>
     <lastmod>2020-02-04T12:29:16+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://pmoris.github.io/tags/docker/</loc>
+    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pmoris.github.io/categories/docker/</loc>
     <lastmod>2020-02-04T12:29:16+01:00</lastmod>
   </url>
   
@@ -134,6 +134,7 @@
   
   <url>
     <loc>https://pmoris.github.io/authors/</loc>
+    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
   </url>
   
   <url>
