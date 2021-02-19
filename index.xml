@@ -5,7 +5,7 @@
     <link>https://pmoris.github.io/</link>
       <atom:link href="https://pmoris.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pieter Moris</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Pieter Moris</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Pieter Moris</copyright><lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Pieter Moris</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Treating biomolecular interaction as an image classification problem – a case study on T-cell receptor-epitope recognition prediction</title>
+      <title>Current Challenges for Unseen-Epitope TCR Interaction Prediction and a New Perspective Derived from Image Classification</title>
       <link>https://pmoris.github.io/publication/moris-treating-biomolecular-interaction-2019/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://pmoris.github.io/publication/moris-treating-biomolecular-interaction-2019/</guid>
       <description></description>
     </item>

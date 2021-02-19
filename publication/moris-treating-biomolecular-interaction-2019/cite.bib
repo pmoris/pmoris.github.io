@@ -1,12 +1,14 @@
-@techreport{moris_TreatingBiomolecularInteraction_2019,
- abstract = {The prediction of epitope recognition by T-cell receptors (TCR) has seen much progress in recent years, with several methods now available that can predict TCR-epitope recognition for a given set of epitopes. However the generic case of evaluating all possible TCR-epitope pairs remains challenging, mainly due to the high diversity of sequences and the limited amount of currently available training data. In this work, we present a novel feature engineering approach for sequence-based predictive molecular interaction models, and demonstrate its potential in generic TCR-epitope recognition. The approach is based on the pairwise combination of the physicochemical properties of the individual amino acids in both sequences. By providing a convolutional neural network (CNN) with a combined representation of the sequences, the model is primed to learn from the molecular binding context directly. It forgoes the need of separate feature extraction steps that operate on, and have to be learned for, both interactors independently. We found indications that this simplifies the prediction task and that it can improve the generalization capabilities of the model to a certain degree. We postulate that similar feature engineering methods could pave the way towards general epitope-agnostic models, although further improvements and additional data are still necessary. Note that this representation is generic and could be applied to a wide variety of similar prediction tasks where sequence-based inputs are the norm. In addition, we highlight that appropriate validation strategies are required to accurately assess the generalization performance of TCR-epitope recognition models when applied to both known and novel epitopes.},
- author = {Moris, Pieter and De Pauw, Joey and Postovskaya, Anna and Ogunjimi, Benson and Laukens, Kris and Meysman, Pieter},
- doi = {10.1101/2019.12.18.880146},
- institution = {Bioinformatics},
- language = {en},
- month = {December},
- title = {Treating biomolecular interaction as an image classification problem – a case study on T-cell receptor-epitope recognition prediction},
- type = {Preprint},
- year = {2019}
+@article{moris_CurrentChallengesUnseenepitope_2020,
+  title        = {Current Challenges for Unseen-Epitope {{TCR}} Interaction Prediction and a New Perspective Derived from Image Classification},
+  author       = {Moris, Pieter and De Pauw, Joey and Postovskaya, Anna and Gielis, Sofie and De Neuter, Nicolas and Bittremieux, Wout and Ogunjimi, Benson and Laukens, Kris and Meysman, Pieter},
+  date         = {2020-12-21},
+  journaltitle = {Briefings in Bioinformatics},
+  pages        = {bbaa318},
+  issn         = {1467-5463, 1477-4054},
+  doi          = {10.1093/bib/bbaa318},
+  url          = {https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa318/6042663},
+  urldate      = {2021-01-10},
+  abstract     = {Abstract             The prediction of epitope recognition by T-cell receptors (TCRs) has seen many advancements in recent years, with several methods now available that can predict recognition for a specific set of epitopes. However, the generic case of evaluating all possible TCR-epitope pairs remains challenging, mainly due to the high diversity of the interacting sequences and the limited amount of currently available training data. In this work, we provide an overview of the current state of this unsolved problem. First, we examine appropriate validation strategies to accurately assess the generalization performance of generic TCR-epitope recognition models when applied to both seen and unseen epitopes. In addition, we present a novel feature representation approach, which we call ImRex (interaction map recognition). This approach is based on the pairwise combination of physicochemical properties of the individual amino acids in the CDR3 and epitope sequences, which provides a convolutional neural network with the combined representation of both sequences. Lastly, we highlight various challenges that are specific to TCR-epitope data and that can adversely affect model performance. These include the issue of selecting negative data, the imbalanced epitope distribution of curated TCR-epitope datasets and the potential exchangeability of TCR alpha and beta chains. Our results indicate that while extrapolation to unseen epitopes remains a difficult challenge, ImRex makes this feasible for a subset of epitopes that are not too dissimilar from the training data. We show that appropriate feature engineering methods and rigorous benchmark standards are required to create and validate TCR-epitope predictive models.},
+  file         = {/home/pieter/Zotero default/storage/AJFZAX7I/Moris et al_2020_Current challenges for unseen-epitope TCR interaction prediction and a new.pdf},
+  langid       = {english}
 }
-
