@@ -5,12 +5,37 @@
     <link>https://pmoris.github.io/project/</link>
       <atom:link href="https://pmoris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Pieter Moris</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Pieter Moris</copyright><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Projects</title>
       <link>https://pmoris.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Workshop on collaborating in git</title>
+      <link>https://pmoris.github.io/project/git-workshop/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/git-workshop/</guid>
+      <description>&lt;p&gt;A workshop that introduces researchers to git as a version control system and how it can aid them in collaborating.&lt;/p&gt;
+&lt;p&gt;The workshop is available at: 
+&lt;a href=&#34;https://pmoris.github.io/git-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pmoris.github.io/git-workshop/&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ImRex - CNN</title>
+      <link>https://pmoris.github.io/project/imrex/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/imrex/</guid>
+      <description>&lt;p&gt;ImRex (Interaction Map Recognition) is an convolutional neural network approach to predict the recognition between a T-cell receptor (TCR) and an epitope. It relies on a novel feature representation method that converts the amino acid sequences of the TCR and epitope into an interaction map, which combines the physicochemical properties of both interactors.&lt;/p&gt;
+&lt;p&gt;For the associated publication, see:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Moris, Pieter, Joey De Pauw, Anna Postovskaya, Sofie Gielis, Nicolas De Neuter, Wout Bittremieux, Benson Ogunjimi, Kris Laukens, and Pieter Meysman. “Current Challenges for Unseen-Epitope TCR Interaction Prediction and a New Perspective Derived from Image Classification.” Briefings in Bioinformatics 22, no. 4 (2020). [https://doi.org/10.1093/bib/bbaa318(https://doi.org/10.1093/bib/bbaa318).&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>MILES Subgraph Miner</title>
@@ -83,7 +108,9 @@ Pieter Moris, Danh Bui-Thi, Kris Laukens, Pieter Meysman. &lt;em&gt;Bioinformati
       <guid>https://pmoris.github.io/project/git-internals/</guid>
       <description>&lt;p&gt;A light-hearted presentation I created on the inner workings of the &lt;code&gt;git&lt;/code&gt; version control system. It focuses on unravelling the underlying mechanisms that govern &lt;code&gt;git&lt;/code&gt;, with the goal of elucidating various aspects that do not appear intuitive at first glance (e.g. &lt;em&gt;&amp;ldquo;what is this detached head warning I keep seeing?&amp;quot;&lt;/em&gt;), and to pave the way for mastering more advanced concepts. It is aimed at an audience that has mastered the basics of &lt;code&gt;git&lt;/code&gt;, and need some help to move on to some of the more advanced features. More concretely, I hope that this overview can provide people with the basic knowledge and vocabulary that is required to read and understand the official documentation when trying out new features or debugging error messages.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve presented it to my colleagues at our research group&amp;rsquo;s annual workshop/brainstorm retreat, and at a biomina lunch talk at UAntwerpen.&lt;/p&gt;
-&lt;p&gt;The slides are available at: &lt;a href=&#34;https://pmoris.github.io/git-gud/&#34;&gt;https://pmoris.github.io/git-gud/&lt;/a&gt;. They were created using the HTML presentation framework 
+&lt;p&gt;The slides are available at: 
+&lt;a href=&#34;https://pmoris.github.io/git-gud/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pmoris.github.io/git-gud/&lt;/a&gt;
+. They were created using the HTML presentation framework 
 &lt;a href=&#34;https://github.com/hakimel/reveal.js/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;reveal.js&lt;/code&gt;&lt;/a&gt;
 .&lt;/p&gt;
 </description>

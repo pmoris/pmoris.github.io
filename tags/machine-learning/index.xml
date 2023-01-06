@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Pieter Moris</title>
+    <link>https://pmoris.github.io/tags/machine-learning/</link>
+      <atom:link href="https://pmoris.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Pieter Moris</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>machine learning</title>
+      <link>https://pmoris.github.io/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>ImRex - CNN</title>
+      <link>https://pmoris.github.io/project/imrex/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/imrex/</guid>
+      <description>&lt;p&gt;ImRex (Interaction Map Recognition) is an convolutional neural network approach to predict the recognition between a T-cell receptor (TCR) and an epitope. It relies on a novel feature representation method that converts the amino acid sequences of the TCR and epitope into an interaction map, which combines the physicochemical properties of both interactors.&lt;/p&gt;
+&lt;p&gt;For the associated publication, see:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Moris, Pieter, Joey De Pauw, Anna Postovskaya, Sofie Gielis, Nicolas De Neuter, Wout Bittremieux, Benson Ogunjimi, Kris Laukens, and Pieter Meysman. “Current Challenges for Unseen-Epitope TCR Interaction Prediction and a New Perspective Derived from Image Classification.” Briefings in Bioinformatics 22, no. 4 (2020). [https://doi.org/10.1093/bib/bbaa318(https://doi.org/10.1093/bib/bbaa318).&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

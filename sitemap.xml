@@ -2,20 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pmoris.github.io/publication/moris-treating-biomolecular-interaction-2019/</loc>
-    <lastmod>2021-05-14T11:58:38+02:00</lastmod>
+    <loc>https://pmoris.github.io/categories/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/tags/computational/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/categories/computational/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/tags/git/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/categories/git/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/</loc>
-    <lastmod>2021-07-16T16:59:02+02:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/project/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/tags/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/project/git-workshop/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/tags/bioinformatics/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/project/imrex/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/tags/machine-learning/</loc>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
+  </url><url>
+    <loc>https://pmoris.github.io/publication/moris-treating-biomolecular-interaction-2019/</loc>
+    <lastmod>2021-05-14T11:58:38+02:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/publication/gielis-detection-enriched-cell-2019/</loc>
     <lastmod>2020-01-28T20:54:19+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/project/miles-subgraph/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/publication/moris-miles-java-tool-2019/</loc>
     <lastmod>2020-01-28T20:54:19+01:00</lastmod>
@@ -23,35 +53,20 @@
     <loc>https://pmoris.github.io/publication/boon-no-barrier-breakdown-2019/</loc>
     <lastmod>2020-01-28T20:54:19+01:00</lastmod>
   </url><url>
-    <loc>https://pmoris.github.io/project/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
-  </url><url>
-    <loc>https://pmoris.github.io/tags/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
-  </url><url>
-    <loc>https://pmoris.github.io/categories/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
-  </url><url>
-    <loc>https://pmoris.github.io/tags/computational/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
-  </url><url>
-    <loc>https://pmoris.github.io/categories/computational/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
-  </url><url>
     <loc>https://pmoris.github.io/tags/docker/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/categories/docker/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/project/docker-tutorial/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/project/computational-primer/</loc>
-    <lastmod>2020-01-28T16:20:58+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/project/biomolecular-id-remapper/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/publication/mrzic-grasping-frequent-subgraph-2018/</loc>
     <lastmod>2020-01-28T20:54:19+01:00</lastmod>
@@ -59,29 +74,23 @@
     <loc>https://pmoris.github.io/publication/meehan-relationship-transmission-time-2018/</loc>
     <lastmod>2020-01-28T20:54:19+01:00</lastmod>
   </url><url>
-    <loc>https://pmoris.github.io/tags/git/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
-  </url><url>
-    <loc>https://pmoris.github.io/categories/git/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
-  </url><url>
     <loc>https://pmoris.github.io/project/git-internals/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/project/tcrex/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/project/goscripts/</loc>
-    <lastmod>2020-02-04T12:29:16+01:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/publication/deneuter-feasibility-mining-cd-8-2018/</loc>
     <lastmod>2020-01-28T20:54:19+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/authors/admin/</loc>
-    <lastmod>2021-07-16T16:59:02+02:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/authors/</loc>
-    <lastmod>2021-07-16T16:59:02+02:00</lastmod>
+    <lastmod>2023-01-06T20:56:33+01:00</lastmod>
   </url><url>
     <loc>https://pmoris.github.io/publication/</loc>
     <lastmod>2020-01-28T14:11:19+01:00</lastmod>
