@@ -5,12 +5,74 @@
     <link>https://pmoris.github.io/project/</link>
       <atom:link href="https://pmoris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Pieter Moris</copyright><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Pieter Moris</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Projects</title>
       <link>https://pmoris.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>SUMMIT</title>
+      <link>https://pmoris.github.io/project/summit/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/summit/</guid>
+      <description>&lt;!-- # SUrveillance of Molecular epidemiology of Malaria In Travelers --&gt;
+&lt;!-- # Surveilling the genomic epidemiology of malaria in travelers --&gt;
+&lt;h1 id=&#34;enabling-the-systematic-genomic-surveillance-of-malaria-via-a-global-network-of-travel-clinics&#34;&gt;Enabling the systematic genomic surveillance of malaria via a global network of travel clinics&lt;/h1&gt;
+&lt;h2 id=&#34;poster&#34;&gt;Poster&lt;/h2&gt;
+&lt;!-- TODO: insert link to poster here --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Despite wide-scale control and elimination efforts, the global decline in malaria has stagnated in recent years. There is a strong need for malaria molecular surveillance in endemic regions to address the threats posed by antimalarial drug and diagnostic resistance, and to strategically prioritise the limited resources for malaria control programs. Meanwhile, non-endemic regions are not only being faced with an increasing number of travel-related malaria cases, in conjunction with adverse clinical outcomes, but also with rare cases of autochthonous transmission.&lt;/p&gt;
+&lt;p&gt;To address these issues, we present the SUrveillance of Molecular epidemiology of Malaria In Travelers (SUMMIT) project. Travelers present an as of yet untapped resource of diverse genomic information on the &lt;em&gt;Plasmodium&lt;/em&gt; parasite, which allows for close-to-real-time data collection and sharing, as well as the standardization of lab and bioinformatics methodologies.&lt;/p&gt;
+&lt;p&gt;We aim to establish a pioneering platform for the routine systematic surveillance of travel-related malaria, which combines parasite whole-genome sequencing data with epidemiological patient data. The platform will be enabled through a global network of travel clinics (
+&lt;a href=&#34;https://geosentinel.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoSentinel&lt;/a&gt;
+), embrace FAIR data sharing principles and be supported by open and reproducible bioinformatics analysis and reporting pipelines (built using Nextflow and powered by nf-core&amp;rsquo;s components and best practices).&lt;/p&gt;
+&lt;p&gt;We will leverage this continuously growing and global-spanning resource to monitor the emergence and spread of clinically-relevant markers, develop machine learning tools to trace parasite origins and conduct studies on treatment failure. Our approach is complementary to existing surveillance approaches and strives to increase the geographic, temporal and genetic resolution of the available genomic data and function as a sentinel system to aid preparedness efforts for reactive and coordinated responses to outbreaks. Our ultimate goal is to provide an up-to-date and accessible resource containing actionable data that can facilitate further malaria research, inform case management, prioritise efficacy studies and aid in surveillance and control efforts.&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;This project is carried out jointly by 
+&lt;a href=&#34;https://geosentinel.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoSentinel&lt;/a&gt;
+ (and its various affiliated sites) and the 
+&lt;a href=&#34;https://research.itg.be/en/organisations/malariology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Malariology Unit&lt;/a&gt;
+ of the 
+&lt;a href=&#34;https://www.itg.be/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Tropical Medicine Antwerp&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;For further information, please reach out to 
+&lt;a href=&#34;../../#contact&#34;&gt;myself&lt;/a&gt;
+, to ITM&amp;rsquo;s PI 
+&lt;a href=&#34;https://research.itg.be/en/persons/anna-rosanas-urgell&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Anna Rosanas-Urgell&lt;/a&gt;
+ or to GeoSentinel&amp;rsquo;s PI Ralph Huits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to unix and sequencing pipelines</title>
+      <link>https://pmoris.github.io/project/wgs-course/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/wgs-course/</guid>
+      <description>&lt;p&gt;Course notes for the Bioinformatics Module of the Fighting Malaria Across Borders (FiMAB) international training programme, created by the Institute of Tropical Medicine (ITM) in Antwerp (Belgium) and supported by VLIR-UOS, as part of a capacity building program for the implementation of sequencing assays for malaria molecular surveillance.&lt;/p&gt;
+&lt;p&gt;The course can be accessed at the following URL: 
+&lt;a href=&#34;https://pmoris.github.io/FiMAB-bioinformatics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pmoris.github.io/FiMAB-bioinformatics/&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nf-core institutional config for CalcUA VSC</title>
+      <link>https://pmoris.github.io/project/nf-core-institutional-config/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/nf-core-institutional-config/</guid>
+      <description>&lt;p&gt;I contributed a configuration file for the 
+&lt;a href=&#34;https://www.uantwerpen.be/en/research-facilities/calcua/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CalcUA&lt;/a&gt;
+ HPC (part of the 
+&lt;a href=&#34;https://www.vscentrum.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vlaams Supercomputer Centrum&lt;/a&gt;
+) to the 
+&lt;a href=&#34;https://nf-co.re/configs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nf-core shared configs&lt;/a&gt;
+. It is available 
+&lt;a href=&#34;https://nf-co.re/configs/vsc_calcua/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+. Feedback and further contributions are welcome!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshop on collaborating in git</title>

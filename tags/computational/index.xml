@@ -5,12 +5,29 @@
     <link>https://pmoris.github.io/tags/computational/</link>
       <atom:link href="https://pmoris.github.io/tags/computational/index.xml" rel="self" type="application/rss+xml" />
     <description>computational</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Pieter Moris</copyright><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Pieter Moris</copyright><lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>computational</title>
       <link>https://pmoris.github.io/tags/computational/</link>
     </image>
+    
+    <item>
+      <title>Nf-core institutional config for CalcUA VSC</title>
+      <link>https://pmoris.github.io/project/nf-core-institutional-config/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pmoris.github.io/project/nf-core-institutional-config/</guid>
+      <description>&lt;p&gt;I contributed a configuration file for the 
+&lt;a href=&#34;https://www.uantwerpen.be/en/research-facilities/calcua/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CalcUA&lt;/a&gt;
+ HPC (part of the 
+&lt;a href=&#34;https://www.vscentrum.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vlaams Supercomputer Centrum&lt;/a&gt;
+) to the 
+&lt;a href=&#34;https://nf-co.re/configs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nf-core shared configs&lt;/a&gt;
+. It is available 
+&lt;a href=&#34;https://nf-co.re/configs/vsc_calcua/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+. Feedback and further contributions are welcome!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshop on collaborating in git</title>
