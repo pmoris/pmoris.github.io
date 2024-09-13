@@ -21,7 +21,17 @@
 &lt;!-- # Surveilling the genomic epidemiology of malaria in travelers --&gt;
 &lt;h1 id=&#34;enabling-the-systematic-genomic-surveillance-of-malaria-via-a-global-network-of-travel-clinics&#34;&gt;Enabling the systematic genomic surveillance of malaria via a global network of travel clinics&lt;/h1&gt;
 &lt;h2 id=&#34;poster&#34;&gt;Poster&lt;/h2&gt;
-&lt;!-- TODO: insert link to poster here --&gt;
+&lt;iframe
+    id=&#34;poster-pdf&#34;
+    title=&#34;SUMMIT&#34;
+    src=&#34;SUMMIT-poster.pdf&#34;
+    frameborder=&#34;1&#34;
+    style=&#34;border: 1px solid #666ccc&#34;
+    scrolling=&#34;auto&#34;
+    height=&#34;1000px&#34;
+    width=&#34;100%&#34;
+    &gt;
+&lt;/iframe&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Despite wide-scale control and elimination efforts, the global decline in malaria has stagnated in recent years. There is a strong need for malaria molecular surveillance in endemic regions to address the threats posed by antimalarial drug and diagnostic resistance, and to strategically prioritise the limited resources for malaria control programs. Meanwhile, non-endemic regions are not only being faced with an increasing number of travel-related malaria cases, in conjunction with adverse clinical outcomes, but also with rare cases of autochthonous transmission.&lt;/p&gt;
 &lt;p&gt;To address these issues, we present the SUrveillance of Molecular epidemiology of Malaria In Travelers (SUMMIT) project. Travelers present an as of yet untapped resource of diverse genomic information on the &lt;em&gt;Plasmodium&lt;/em&gt; parasite, which allows for close-to-real-time data collection and sharing, as well as the standardization of lab and bioinformatics methodologies.&lt;/p&gt;
