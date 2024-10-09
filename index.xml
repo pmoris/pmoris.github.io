@@ -21,25 +21,27 @@
 &lt;!-- # Surveilling the genomic epidemiology of malaria in travelers --&gt;
 &lt;h1 id=&#34;enabling-the-systematic-genomic-surveillance-of-malaria-via-a-global-network-of-travel-clinics&#34;&gt;Enabling the systematic genomic surveillance of malaria via a global network of travel clinics&lt;/h1&gt;
 &lt;h2 id=&#34;poster&#34;&gt;Poster&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;./SUMMIT-poster.pdf&#34;&gt;Click here&lt;/a&gt;
+ to download the poster.&lt;/p&gt;
 &lt;iframe
     id=&#34;poster-pdf&#34;
     title=&#34;SUMMIT&#34;
     src=&#34;SUMMIT-poster.pdf&#34;
     frameborder=&#34;1&#34;
-    style=&#34;border: 1px solid #666ccc&#34;
+    style=&#34;border: 1px; solid #666ccc; width: 100%; height: 77vh&#34;
     scrolling=&#34;auto&#34;
-    height=&#34;1000px&#34;
-    width=&#34;100%&#34;
     &gt;
+    &lt;a href=&#34;home.pdf&#34;&gt;Download the poster here.&lt;/a&gt;
 &lt;/iframe&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
 &lt;p&gt;A brief overview of the current status of the project:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;The GeoSentinel network encompasses 65 sites in 29 countries.&lt;/li&gt;
+&lt;li&gt;The GeoSentinel network encompasses 71 sites in 29 countries.&lt;/li&gt;
 &lt;li&gt;We plan to enroll 33 sites in the initial phase of the project.&lt;/li&gt;
-&lt;li&gt;9 ethical approvals and MTAs have been completed, with the others in various stages of completion.&lt;/li&gt;
+&lt;li&gt;So far, 15 ethical approvals and MTAs have been completed, with others in various stages of completion.&lt;/li&gt;
 &lt;li&gt;50 samples have been collected in total so far.&lt;/li&gt;
-&lt;li&gt;10 have been (whole-genome) sequenced, with 25 more underway currently.&lt;/li&gt;
+&lt;li&gt;8 have already been (whole-genome) sequenced, 17 are being analysed and 30 additional samples have arrived and are ready for processing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;As sample collection and processing becomes more systematic, we plan to release up to data genetic variant and epidemiological data every 1-3 months on the SUMMIT data platform.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -49,6 +51,12 @@
 &lt;a href=&#34;https://geosentinel.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoSentinel&lt;/a&gt;
 ), embrace FAIR data sharing principles and be supported by open and reproducible bioinformatics analysis and reporting pipelines (built using Nextflow and powered by nf-core&amp;rsquo;s components and best practices).&lt;/p&gt;
 &lt;p&gt;We will leverage this continuously growing and global-spanning resource to monitor the emergence and spread of clinically-relevant markers, develop machine learning tools to trace parasite origins and conduct studies on treatment failure. Our approach is complementary to existing surveillance approaches and strives to increase the geographic, temporal and genetic resolution of the available genomic data and function as a sentinel system to aid preparedness efforts for reactive and coordinated responses to outbreaks. Our ultimate goal is to provide an up-to-date and accessible resource containing actionable data that can facilitate further malaria research, inform case management, prioritise efficacy studies and aid in surveillance and control efforts.&lt;/p&gt;
+&lt;h2 id=&#34;contact-us&#34;&gt;Contact us&lt;/h2&gt;
+&lt;p&gt;For further information, please reach out to 
+&lt;a href=&#34;../../#contact&#34;&gt;myself&lt;/a&gt;
+, to ITM&amp;rsquo;s PI 
+&lt;a href=&#34;https://research.itg.be/en/persons/anna-rosanas-urgell&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Anna Rosanas-Urgell&lt;/a&gt;
+ or to GeoSentinel&amp;rsquo;s PI Ralph Huits.&lt;/p&gt;
 &lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
 &lt;p&gt;This project is carried out jointly by 
 &lt;a href=&#34;https://geosentinel.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoSentinel&lt;/a&gt;
@@ -56,12 +64,7 @@
 &lt;a href=&#34;https://research.itg.be/en/organisations/malariology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Malariology Unit&lt;/a&gt;
  of the 
 &lt;a href=&#34;https://www.itg.be/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Tropical Medicine Antwerp&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;For further information, please reach out to 
-&lt;a href=&#34;../../#contact&#34;&gt;myself&lt;/a&gt;
-, to ITM&amp;rsquo;s PI 
-&lt;a href=&#34;https://research.itg.be/en/persons/anna-rosanas-urgell&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Anna Rosanas-Urgell&lt;/a&gt;
- or to GeoSentinel&amp;rsquo;s PI Ralph Huits.&lt;/p&gt;
+, and is funded by GeoSentinel, a Cooperative Agreement (1 U01 CK000632-04) from the Centers for Disease Control and Prevention (CDC) and the International Society of Travel Medicine (ISTM) that also receives funding from the GeoSentinel Foundation and the Public Health Agency of Canada.&lt;/p&gt;
 </description>
     </item>
     
